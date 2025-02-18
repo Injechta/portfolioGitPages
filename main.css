@@ -55,7 +55,7 @@
       .menu-branding .portrait {
         width: 250px;
         height: 250px;
-        background: url("../img/balise.png");
+        background: url("img/balise.png");
         background-size: contain;
         border-radius: 50%;
         border: solid 3px #eece1a; }
@@ -102,7 +102,7 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.5; }
     body#bg-img {
-      background: url("img/background.jpg");    /* ***************UNLOCK IT******************/
+      background: url("img/background.jpg"); 
       background-attachment: fixed;
       background-size: cover; }
       body#bg-im,g:after {
